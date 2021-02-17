@@ -1,2 +1,2 @@
-# ananda.github.io
-proyek web development pertamaku
+# Ini adalah personal website saya, Ananda Razaq Widi Arrasyd siswa SD kelas 2 di SD Negeri 1 Kampungdalem
+
