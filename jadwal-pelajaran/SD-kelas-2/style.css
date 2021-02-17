@@ -1,0 +1,15 @@
+h1,h2,table {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.hari {
+    background-color: gray;
+    color: honeydew;
+    font-weight: bold;
+}
+
+.istirahat {
+    font-style: italic;
+    font-weight: bold;
+}
